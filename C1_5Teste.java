@@ -7,7 +7,8 @@ public class C1_5Teste {
             // SE sim então
             if (b == 200) {
                 // SE sim então
-                System.out.println("Valor de a eh 100 e b eh 200");
+                System.out.println("Valor de a eh" + a + "e b" + b);
+                System.out.println(b);("Valor de a eh" + a + "e b" + b); 
             }
         }
     }
